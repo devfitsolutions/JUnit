@@ -10,7 +10,7 @@ import exercicio.Valores;
 
 public class ValoresTeste {
     
-	Valores res; //
+	Valores res; ///
 	
 	@Before //Fazer com que esse método seja iniciado antes de cada método
 	public void setup(){
