@@ -1,5 +1,5 @@
 package exercicio.teste;
-//https://github.com/junit-team/junit4/wiki/exception-testing
+
 import static org.junit.Assert.*;
 
 import org.junit.After;
